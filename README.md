@@ -79,18 +79,11 @@ BattleZone/
 │
 ├── ddqn_battlezone_tuned.zip
 ├── 1771728423....mp4
-├── 1771728437....mp4
-├── logs/
+├── 1771728437....mp4    (Renderización del comportamiento del agente en entrenamiento y final)
+├── logs/  (Checkpoints intermedios)
 └── Problema_dificultad_alta_BattleZone.ipynb
 ```
 
-### Carpeta logs/
-
-Incluye:
-
-- Archivos de eventos de TensorBoard 
-- Checkpoints intermedios
-- Métricas de entrenamiento
 
 ### Comparación Experimental
 
